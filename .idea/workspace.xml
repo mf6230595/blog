@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a51d3945-5220-4e18-b407-e3ad16768744" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UygIuVlSkhAs6I4lYY0ni2meZ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\liu\Desktop\blog\static\images" />
+      <recent name="C:\Users\liu\Desktop\blog" />
+      <recent name="C:\Users\liu\Desktop\blog\static" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a51d3945-5220-4e18-b407-e3ad16768744" name="Default Changelist" comment="" />
+      <created>1576334172454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576334172454</updated>
+      <workItem from="1576334174894" duration="7712000" />
+      <workItem from="1576343532155" duration="22000" />
+      <workItem from="1576379443940" duration="2669000" />
+      <workItem from="1576402962647" duration="10633000" />
+      <workItem from="1576507018262" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="615" y="259" width="440" height="520" key="FileChooserDialogImpl" timestamp="1576507238029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="259" width="440" height="520" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576507238029" />
+    <state x="833" y="410" width="277" height="220" key="Github.ShareDialog" timestamp="1576507216140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="410" width="277" height="220" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576507216140" />
+    <state x="220" y="162" key="SettingsEditor" timestamp="1576507222914">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="220" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576507222914" />
+    <state x="654" y="253" key="run.anything.popup" timestamp="1576343106394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="253" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576343106394" />
+  </component>
+</project>
